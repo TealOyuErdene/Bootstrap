@@ -13,3 +13,5 @@ https://tealoyuerdene.github.io/Bootstrap/Simple%20card/index.html
 
 https://tealoyuerdene.github.io/Bootstrap/Showcase/index.html
 
+https://tealoyuerdene.github.io/Bootstrap/Layout/index.html
+

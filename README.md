@@ -15,3 +15,5 @@ https://tealoyuerdene.github.io/Bootstrap/Showcase/index.html
 
 https://tealoyuerdene.github.io/Bootstrap/Layout/index.html
 
+https://tealoyuerdene.github.io/Bootstrap/Bootstrap%20page/index.html
+
